@@ -4,7 +4,7 @@
 
 * **PDB:** 7BQY
 * **Protein:** SARS-CoV-2 Mpro
-* **Protein chain:** Agit add data/raw/metadata/structure_selection.md
+* **Protein chain:** A
 * **Protein length:** 306 aa
 * **Bound ligand:** N3
 * **Ligand chain:** C
@@ -38,3 +38,4 @@ N3 is represented in the PDB structure as multiple chemical components:
 The PDB LINK records show that these components are covalently connected and that the inhibitor is covalently linked to **Cys145** of Mpro.
 
 Therefore, N3 will be treated as a **covalent reference inhibitor** and will not be interpreted as a conventional non-covalent docking ligand in the virtual screening workflow.
+
