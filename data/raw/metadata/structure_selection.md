@@ -39,3 +39,13 @@ The PDB LINK records show that these components are covalently connected and tha
 
 Therefore, N3 will be treated as a **covalent reference inhibitor** and will not be interpreted as a conventional non-covalent docking ligand in the virtual screening workflow.
 
+## Catalytic dyad
+
+The selected Mpro structure contains the catalytic dyad formed by:
+
+- **His41**, chain A
+- **Cys145**, chain A
+
+The PDB coordinates confirm the presence of both residues in the selected protein chain.
+
+Cys145 is additionally involved in a covalent LINK record with the N3 inhibitor in the crystal structure.
